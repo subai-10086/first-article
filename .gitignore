@@ -1,0 +1,21 @@
+# LaTeX 编译临时文件
+*.aux
+*.log
+*.synctex.gz
+*.toc
+*.out
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.nav
+*.snm
+*.vrb
+*.bak
+
+# MATLAB 临时文件
+*.asv
+
+# 系统文件
+Thumbs.db
+.DS_Store
